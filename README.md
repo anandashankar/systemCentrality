@@ -11,6 +11,6 @@ centrality measures of graph based systems
 		ii. Random walks: 
 
 2. Influence of nodes on other nodes in complex networks
-	A. K-shell decomposition of trial network identifying buckets of nodes. This method identifies those nodes which are more core to the network defined by coreness and hence considered as influential spreaders.  
+	A. K-shell decomposition of trial network identifying buckets of nodes. 
 
 
